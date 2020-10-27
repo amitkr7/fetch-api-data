@@ -6,3 +6,4 @@ export default axios.create({
     Authorization: 'Client-ID ZqR4iG5KGL2JYvsylUPI2n5Ai1oTm4ulBj7ql38UKBk',
   },
 });
+
